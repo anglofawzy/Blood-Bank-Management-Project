@@ -17,7 +17,7 @@
 
 ### Contributors:
 1. [Raheem Amer](https://github.com/RaheemAmer)
-2. []()
+2. [Anglo Fawzy]((https://github.com/anglofawzy)
 3. []()
 4. []()
 5. []()
